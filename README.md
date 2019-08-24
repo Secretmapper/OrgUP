@@ -6,6 +6,6 @@ Ma. Rowena C. Solamo for the 1st and 2nd Semester of the academic year 2019-2020
 
 Group Number: 6
 
-Ang, Aira Jazel
-Bueno, Bianca
-Valdez, Arian Allenson
+- Ang, Aira Jazel
+- Bueno, Bianca
+- Valdez, Arian Allenson
